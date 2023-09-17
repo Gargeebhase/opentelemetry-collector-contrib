@@ -7,9 +7,7 @@ exporter/f5cloudexporter
 exporter/kafkaexporter
 exporter/loadbalancingexporter
 exporter/logzioexporter
-exporter/lokiexporter
 exporter/pulsarexporter
-exporter/sentryexporter
 exporter/sumologicexporter
 extension/observer/ecsobserver
 extension/observer
