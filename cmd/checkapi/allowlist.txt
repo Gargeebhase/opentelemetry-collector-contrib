@@ -8,6 +8,7 @@ exporter/kafkaexporter
 exporter/loadbalancingexporter
 exporter/logzioexporter
 exporter/pulsarexporter
+exporter/sentryexporter
 exporter/sumologicexporter
 extension/observer/ecsobserver
 extension/observer
